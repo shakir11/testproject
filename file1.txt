@@ -4,4 +4,5 @@
 # feature1 implementation line2
 # feature1 implementation line3
 
-Changed file in master
+Added fix for feature 1
+Added another fix for feature 1
